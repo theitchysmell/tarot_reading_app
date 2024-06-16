@@ -1,0 +1,5 @@
+pandas
+openpyxl
+pillow~=10.3.0
+setuptools~=70.0.0
+matplotlib~=3.9.0
